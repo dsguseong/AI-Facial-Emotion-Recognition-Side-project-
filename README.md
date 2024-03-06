@@ -1,4 +1,4 @@
-# AI-Facial-Emotion-Recognition-Side-project-
+# AI-Facial-Emotion-Recognition-Side-project
 
 1. Please decompress the split compressed files and combine them into one file. (The files are split due to large size.) <fer2013.z01 ~ 18>
 2. Make Virtual environment 
