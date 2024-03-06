@@ -107,4 +107,4 @@ model.fit(X_train,train_y,batch_size=batch_size,
 fer_json=model.to_json()
 with open("fer.json","w") as json_file:
     json_file.write(fer_json)
-model.save_weights("fer.h5")
+model.save_weights("fer.weights.h5")
