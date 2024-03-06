@@ -1,9 +1,9 @@
 # AI-Facial-Emotion-Recognition-Side-project
 
 1. Please decompress the split compressed files and combine them into one file. (The files are split due to large size.) <fer2013.z01 ~ 18>
-2. Make Virtual environment 
-3. Install all packages are required by the below modules
-4. Execute emotion_detection.py module first in order to train the model, then VideoTest.py to monitor Facial emotion recognition.
+2. Make Virtual environment (Python 3.7.16)
+3. Install all packages are required (pip install -r requirements.txt)
+4. Execute emotion_detection.py module first in order to train the model, then VideoTest.py for Facial emotion recognition.
 
 
 'emotion_detection.py': 
